@@ -1,4 +1,4 @@
-# Advanced SQL for Business Intelligence at AtliQ Hardware
+# Advanced SQL for Business Intelligence
 
 ### 📜 License & Acknowledgment  
 This repository is maintained by **[Chiranjeevi Dhanala](https://github.com/Chirudc)**.  
